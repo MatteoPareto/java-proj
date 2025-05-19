@@ -1,4 +1,4 @@
-const { mergeStrings } = require('./StringMerger');
+const { mergeStrings } = require('./Main_functions.js');
 
 // Main entry point
 function main() {
