@@ -1,14 +1,14 @@
 {
   "name": "java-proj",
   "version": "1.0.0",
-  "description": "basci program that merges two strings",
+  "description": "basic program that merges two strings",
   "main": "src/Main.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "start": "node src/Main.js",
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "Matteo Pareto",
