@@ -1,0 +1,20 @@
+{
+  "name": "java-proj",
+  "version": "1.0.0",
+  "description": "basci program that merges two strings",
+  "main": "src/Main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/Main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Matteo Pareto",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
