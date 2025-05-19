@@ -22,7 +22,7 @@ jobs:
         with:
           node-version: 20
 
-          cache: 'npm-v2'
+          cache: 'npm'
 
       # Install dependencies
       - name: Install dependencies
